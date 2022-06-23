@@ -1,5 +1,5 @@
 # CPU-simulator
-  Even-driven single CPU process simulation
+  Even-driven simulation of single CPU processes 
 
 # Running the Project- 
   compile-
