@@ -3,8 +3,10 @@
 
 # Running the Project-
   compile-
+    
     make
   
   run-
+    
     ./main <process_fileName>
    
