@@ -1,12 +1,3 @@
-//-----------------------------------------
-     // NAME		: MD JIDANUR RAHMAN
-     // STUDENT NUMBER	: 7895504
-     // COURSE		: COMP 2150
-     // INSTRUCTOR	: MIKE DOMARATZKI
-     // ASSIGNMENT	: assignment # 2
-     //
-
-
 
 #include "Simulation.h"
 #include <iostream>
